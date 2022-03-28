@@ -8,5 +8,7 @@ class SingaporeApplication
 
 fun main(args:Array<String>)
 {
+
     runApplication<SingaporeApplication>(*args)
+
 }

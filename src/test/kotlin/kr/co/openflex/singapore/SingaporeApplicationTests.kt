@@ -9,5 +9,4 @@ class SingaporeApplicationTests {
     @Test
     fun contextLoads() {
     }
-
 }

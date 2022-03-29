@@ -1,3 +1,1 @@
-this is text from console.
-
-= OK. I am from intellij
+godai77 : 2022-03-30
